@@ -11,3 +11,8 @@ i tried to make the description of this repository and failed horribly.
 example: <br>
 <img src="https://github.com/y1eld/sameprogram-newlanguage/assets/141585498/74c15d37-5112-40f8-8e14-d3371b646e40" alt="image" width="300"><br>
 also this is not my photo.
+
+# license
+
+the [MIT license](LICENSE)
+
